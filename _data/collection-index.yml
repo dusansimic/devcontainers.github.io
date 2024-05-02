@@ -758,3 +758,8 @@
   contact: https://github.com/veryl-lang/devcontainer-features/issues
   repository: https://github.com/veryl-lang/devcontainer-features/
   ociReference: ghcr.io/veryl-lang/devcontainer-features
+- name: Dev Container Features by dusansimic
+  maintainer: dusansimic
+  contact: https://github.com/dusansimic/devcontainer-features/issues
+  repository: https://github.com/dusansimic/devcontainer-features/
+  ociReference: ghcr.io/dusansimic/devcontainer-features
